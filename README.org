@@ -4,6 +4,6 @@ Statistical functions in Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Lisp-Stat/statistics.git |
-| commit  | 5b65f80                                         |
+| commit  | 04d37af                                         |
 | systems | statistics                                      |
 |---------+-------------------------------------------------|
